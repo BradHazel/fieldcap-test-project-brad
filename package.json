@@ -28,7 +28,7 @@
     "@clr/ui": "2.1.1",
     "@webcomponents/custom-elements": "^1.0.0",
     "document-register-element": "^1.7.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
